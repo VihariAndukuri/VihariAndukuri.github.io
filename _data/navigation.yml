@@ -3,10 +3,8 @@
 
 - name: Portfolio
   link: /portfolio/
-- 
-  
 - name: Books
   link: /books/
   
-  name: About
+- name: About
   link: /about/
