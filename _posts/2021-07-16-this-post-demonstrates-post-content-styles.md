@@ -7,6 +7,10 @@ Lorem ipsum dolor sit amet, **BOLD** adipiscing elit. Fusce bibendum neque eget 
 
 ![sample image]({{site.baseurl}}/assets/images/example.jpg)
 
+![sample image]({{site.baseurl}}/assets/images/sample_portfolio/6.jpg)
+
+![sample image]({{site.baseurl}}/assets/images/Albums/beatles.jpg)
+
 Here's a sentence with a footnote. [^1]
 
 ## Some great heading (h2)
