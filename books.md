@@ -4,6 +4,16 @@ title: Books
 permalink: /books/
 ---
 
+Currently Reading: 
+
+**The Life of Mao, Ross Terrill**
+
+![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/mao.jpg){:height="350px" width="200px"}
+
+
+
+
+
 Some Books I enjoy
 
 **iWoz, Steve Wozniak**
