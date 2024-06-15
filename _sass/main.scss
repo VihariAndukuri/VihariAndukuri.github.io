@@ -16,6 +16,15 @@ img {
   margin-bottom: 2rem;
   border-bottom: 0.125rem solid hsl(0, 0%, 30%);
 }
+::-moz-selection { /* Code for Firefox */
+  color: skyblue;
+  background: lightseagreen;
+}
+
+::selection {
+  color: skyblue;
+  background: lightseagreen;
+}
 
 .archive-year {
   margin-top: 2rem;
