@@ -42,10 +42,10 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: mkie0125@gmail.com
+  email: 
   facebook:
-  github: andrewhwanpark/brutalist-blog
-  linkedin: vihari-andukuri
+  github: 
+  linkedin: 
   rss: # just type anything here for a working RSS icon
 
 plugins:
