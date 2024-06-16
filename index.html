@@ -1,8 +1,37 @@
 ---
 layout: default
 ---
-Hello, I am Vihari Andukuri.
+ <font size="+4">Hello, I am Vihari Andukuri.</font></br></br>
+This website hosts my writings on product, design and strategy.</br>
+<style>
+a:link {
 
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: DarkTurquoise;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</br>
+<ul>
+  <li>You can find out more about me  <a href="https://vihariandukuri.github.io/about/" target="_blank"> here <font size="+1">&#x2197; </font> </a> </li>
+  <li>Curated gallery of some  <a href="https://vihariandukuri.github.io/about/" target="_blank"> standout UI/UX <font size="+1">&#x2197; </font> </a> </li>
+  <li>Here are my <a href="https://vihariandukuri.github.io/about/" target="_blank"> book recommendations<font size="+1">&#x2197; </font> </a> </li>
+</ul>
 <div class="archive">
   {% for post in site.posts %} {% assign currDate = post.date | date: "%Y" %} {%
   if currDate != date %}
