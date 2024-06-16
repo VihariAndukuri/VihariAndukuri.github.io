@@ -22,9 +22,9 @@ I enjoy reading books, mainly non-fiction and business biographies. Recently, I'
 
 Here are a list of books I would strongly recommend.
 
-**iWoz**
+ **iWoz**
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/iwoz.jpg){:height="350px" width="200px"}
+![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/iwoz.jpg){:height="350px" width="200px"}        
 
 **Shoedog**
 

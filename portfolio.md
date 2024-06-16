@@ -4,14 +4,9 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-### Sample Portfolio
+![Chungking Express Screencap 1]({{site.baseurl}}/assets/images/sample_portfolio/cookies.png){:height="770px" width="440px" style="display: block; margin: 0 auto"}
 
-These are screencaps from Chungking Express
+Whenever I use a new product, I love to take a close look at its UI/UX. I like to think about why the Product Manager or Designer chose certain elements and imagine what I might have done differently if I were in their shoes.
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/images/sample_portfolio/1.jpg)
-![Chungking Express Screencap 2]({{site.baseurl}}/assets/images/sample_portfolio/2.jpg)
-![Chungking Express Screencap 3]({{site.baseurl}}/assets/images/sample_portfolio/3.jpg)
-![Chungking Express Screencap 4]({{site.baseurl}}/assets/images/sample_portfolio/4.jpg)
-![Chungking Express Screencap 5]({{site.baseurl}}/assets/images/sample_portfolio/5.jpg)
+Here, I've gathered a collection of some standout (and a few not so great) UI/UX designs I've encountered. This is a living list, so I'll be updating it from time to time.
 
-![Chungking Express Screencap 5]({{site.baseurl}}/assets/images/sample_portfolio/6.jpg)
