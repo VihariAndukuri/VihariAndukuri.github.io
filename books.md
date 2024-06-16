@@ -4,43 +4,49 @@ title: Books
 permalink: /books/
 ---
 
-Currently Reading: 
+ ![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/booknewyorker.jpg){: style="display: block; margin: 0 auto"}
 
-**The Life of Mao, Ross Terrill**
+
+
+#### **Currently Reading** 
+
+The Life of Mao (as of June 16, 2024)
 
 ![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/mao.jpg){:height="350px" width="200px"}
 
+------
 
 
 
+I enjoy reading books, mainly non-fiction and business biographies. Recently, I've also started delving into biographies of historical figures. 
 
-Some Books I enjoy
+Here are a list of books I would strongly recommend.
 
-**iWoz, Steve Wozniak**
+**iWoz**
 
 ![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/iwoz.jpg){:height="350px" width="200px"}
 
-**Shoedog, Phil Knight**
+**Shoedog**
 
 ![Chungking Express Screencap 2]({{site.baseurl}}/assets/bookcovers/shoedog.jpg){:height="350px" width="200px"}
 
-**Steve Jobs, Walter Isaacson**
+**Steve Jobs**
 
 ![Chungking Express Screencap 3]({{site.baseurl}}/assets/bookcovers/steve.jpg){:height="350px" width="200px"}
 
-**Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance**
+**Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future**
 
 ![Chungking Express Screencap 3]({{site.baseurl}}/assets/bookcovers/elon.jpg){:height="350px" width="200px"}
 
-**Hard drive, James Wallace**
+**Hard drive**
 
 ![Chungking Express Screencap 3]({{site.baseurl}}/assets/bookcovers/bill.jpg){:height="350px" width="200px"}
 
-**Alibaba: The House that Jack Ma Built, Duncan Clark**
+**Alibaba: The House that Jack Ma Built**
 
 ![Chungking Express Screencap 3]({{site.baseurl}}/assets/bookcovers/ali.jpg){:height="350px" width="200px"}
 
-**The Everything Store: Jeff Bezos and the Age of Amazon, Brad Stone**
+**The Everything Store: Jeff Bezos and the Age of Amazon**
 
 ![Chungking Express Screencap 3]({{site.baseurl}}/assets/bookcovers/jeff.jpg){:height="350px" width="200px"}
 
