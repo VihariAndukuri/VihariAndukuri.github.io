@@ -1,5 +1,12 @@
 ---
+
 ---
+
+.text-container {
+    max-width: 70%; /* 70% of the parent container's width */
+    margin: 0 auto;
+    padding: 10px;
+}
 
 @import "bootstrap-dark";
 @import "syntax-highlighting";

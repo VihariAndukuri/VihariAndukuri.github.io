@@ -10,7 +10,7 @@ permalink: /books/
 
 #### **Currently Reading** 
 
-The Life of Mao (as of June 16, 2024)
+**The Life of Mao**
 
 ![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/mao.jpg){:height="350px" width="200px"}
 
@@ -20,7 +20,7 @@ The Life of Mao (as of June 16, 2024)
 
 I enjoy reading books, mainly non-fiction and business biographies. Recently, I've also started delving into biographies of historical figures. 
 
-Here are a list of books I would strongly recommend.
+Here are a list of books I would recommend.
 
  **iWoz**
 

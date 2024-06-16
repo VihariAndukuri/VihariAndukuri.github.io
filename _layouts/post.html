@@ -2,8 +2,15 @@
 layout: default
 ---
 
-<div class="post">
-  <h1>{{ page.title }}</h1>
-  <span class="fs-2 text-muted">{{ page.date | date: "%b %d, %y" }}</span>
-  <div class="mt-4">{{ content }}</div>
+<div class="post container">
+  <div class="row">
+    <div class="col-md-9">
+      <h1>{{ page.title }}</h1>
+      <span class="fs-3 text-muted">{{ page.date | date: "%b %d, %Y" }}</span>
+      <div class="mt-4">{{ content }}</div>
+    </div>
+    <div class="col-md-4">
+      <!-- Additional content or sidebar here -->
+    </div>
+  </div>
 </div>
