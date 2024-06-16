@@ -1,8 +1,8 @@
 - name: Home
   link: /
 
-- name: Portfolio
-  link: /portfolio/
+- name: Gallery
+  link: /gallery/
 - name: Books
   link: /books/
   
