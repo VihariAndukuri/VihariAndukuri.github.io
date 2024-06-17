@@ -11,3 +11,63 @@
 @import "bootstrap-dark";
 @import "syntax-highlighting";
 @import "main";
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.shelf {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.book {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+    flex: 1 0 100%;
+    padding: 10px;
+}
+
+.book-cover img {
+    width: 210px; /* Set your desired width */
+    height: 280px; /* Set your desired height */
+    object-fit: contain; /* Ensures images are resized to fit within the dimensions */
+}
+
+.book-info {
+	max-width: calc(100% - 40px);
+    border-top: 0px solid #eee;
+    padding: 0px 0px;
+}
+
+.book h3 {
+    margin: 5px 10px 5px;
+    font-size: 1em;
+	font-weight: bold;
+	white-space: normal;
+	word-wrap: break-word;
+}
+
+.book p {
+    margin: 0;
+    color: #555;
+	padding-left: 8px;
+	max-width: calc(100% - 15px);
+	
+}
+
+@media (min-width: 40rem) {
+    .book {
+        flex: 1 0 50%;
+    }
+}
+
+@media (min-width: 55rem) {
+    .book {
+        flex: 1 0 25%;
+    }
+}

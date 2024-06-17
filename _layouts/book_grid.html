@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+<div class="post container">
+  <div class="row">
+    <div class="col-md-9">
+      <h1>{{ page.title }}</h1>
+      <span class="fs-4 text-muted">{{ page.date | date: "%b %d, %Y" }}</span>
+      <div class="mt-4">{{ content }}</div>
+    </div>
+    <div class="col-md-4">
+      <!-- Additional content or sidebar here -->
+    </div>
+  </div>
+</div>
+
+    <div class="shelf">
+        {% for book in site.data.books %}
+        <div class="book">
+            <div class="book-cover">
+				
+					<img src="{{ book.cover }}" alt="{{ book.title }}" width="350" height="100">
+				
+            </div>
+            <div class="book-info">
+                <h3>{{ book.title }}</h3>
+                <p>{{ book.author }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

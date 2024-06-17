@@ -1,0 +1,41 @@
+- title: "Alibaba: The house that Jack Ma built"
+  author: "Andrew Leland"
+  cover: "/assets/bookcovers/ali.jpg"
+   
+
+- title: "Hard Drive"
+  author: "James Wallace & Jim Erickson"
+  cover: "/assets/bookcovers/bill.jpg"
+
+# Add more books here
+- title: "Elon Musk"
+  author: "Ashlee Vance"
+  cover: "/assets/bookcovers/elon.jpg"
+  
+  
+- title: "iWoz"
+  author: "Steve Wozniak"
+  cover: "/assets/bookcovers/iwoz.jpg"
+  
+  
+
+- title: "The Everything Store"
+  author: "Jeff Bezos"
+  cover: "/assets/bookcovers/jeff.jpg"
+  
+
+
+
+
+
+- title: "The Facebook Effect"
+  author: "David Kirkpatrick"
+  cover: "/assets/bookcovers/mark.jpg"
+- title: "Shoe Dog"
+  author: "Phil Knight"
+  cover: "/assets/bookcovers/shoedog.jpg"
+  
+
+- title: "Steve Jobs"
+  author: "Walter Isaacson"
+  cover: "/assets/bookcovers/steve.jpg"
