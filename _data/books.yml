@@ -24,10 +24,6 @@
   cover: "/assets/bookcovers/jeff.jpg"
   
 
-
-
-
-
 - title: "The Facebook Effect"
   author: "David Kirkpatrick"
   cover: "/assets/bookcovers/mark.jpg"
@@ -39,3 +35,56 @@
 - title: "Steve Jobs"
   author: "Walter Isaacson"
   cover: "/assets/bookcovers/steve.jpg"
+  
+- title: "Losing the Signal"
+  author: "McNish & Silcoff"
+  cover: "/assets/bookcovers/blackberry.jpg"
+  
+
+- title: "Elon Musk"
+  author: "Walter Isaacson"
+  cover: "/assets/bookcovers/walter.jpg"
+  
+- title: "Hatching Twitter"
+  author: "Nick Bilton"
+  cover: "/assets/bookcovers/twitter.jpg"
+
+- title: "The difference between God and Larry Ellison"
+  author: "Mike Wilson"
+  cover: "/assets/bookcovers/larry.jpg"
+  
+  
+- title: "No Filter"
+  author: "Sarah Frier"
+  cover: "/assets/bookcovers/insta.jpg"
+  
+- title: "Chaos Monkeys"
+  author: "Antonio Garcia Martinez"
+  cover: "/assets/bookcovers/chaos.jpg"
+  
+- title: "Power Failure"
+  author: "William D.Cohan"
+  cover: "/assets/bookcovers/ge.jpg"
+  
+
+- title: "The Design of Everyday Things"
+  author: "Don Norman"
+  cover: "/assets/bookcovers/design.jpg"
+  
+  
+- title: "Inspired"
+  author: "Marty Cagan"
+  cover: "/assets/bookcovers/inspired.jpg"
+  
+- title: "The Art of Electronics"
+  author: "Horowitz & Hill"
+  cover: "/assets/bookcovers/art.jpg"
+  
+- title: "Titan"
+  author: "Ron Chernow"
+  cover: "/assets/bookcovers/titan.jpg"
+  
+
+- title: "Stalin: Paradoxes of Power"
+  author: "Stephen Kotkin"
+  cover: "/assets/bookcovers/stalin1.jpg"
