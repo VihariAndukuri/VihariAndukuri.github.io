@@ -1,7 +1,7 @@
 - name: Home
   link: /
 
-- name: Gallery
+- name: UX Gallery
   link: /gallery/
 - name: Books
   link: /books/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UI/UX Gallery
+title: UX Gallery
 permalink: /gallery/
 ---
 
