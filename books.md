@@ -18,7 +18,7 @@ permalink: /books/
 
 
 
-I enjoy reading books, mainly non-fiction and business biographies. Recently, I've been diving into biographies of historical figures. Here are a few books I would recommend.
+I enjoy reading books, mainly non-fiction and business biographies; occasionally literary fiction. Recently, I've been diving into biographies of historical figures. Here are a few books I would recommend, in no particular order.
 
 <br>
 
