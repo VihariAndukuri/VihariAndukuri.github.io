@@ -22,4 +22,5 @@ When the user is trying to make an unrecoverable change, make confirmation box u
 
 ![Github]({{site.baseurl}}/assets/gallery/github.png){:height="1200px" width="700px"}
 
-![Github]({{site.baseurl}}/assets/gallery/dog.jpg)
+
+
