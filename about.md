@@ -8,7 +8,7 @@ permalink: /about/
 
 <style>
 a:link {
-  color: black;
+  color: DarkTurquoise;
   background-color: transparent;
   text-decoration: none;
 }
@@ -23,7 +23,7 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: black;
+  color: DarkTurquoise;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -81,7 +81,7 @@ Here are some of the cool products I had worked on at Johnson Controls.
 
 ##### [NS8000 &#x2197;](https://www.johnsoncontrols.com/building-automation-and-controls/hvac-controls/thermostats/networked-thermostat-controllers) 
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/about/ns8000.png){:height="350px" width="200px" }
+![Chungking Express Screencap 1]({{site.baseurl}}/assets/about/ns8000.png){:height="300px" width="180px" }
 
 ##### [Lux KONO Smart Thermostat &#x2197;](https://luxproducts.com/kono-4/) 
 
