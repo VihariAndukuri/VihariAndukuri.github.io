@@ -62,7 +62,7 @@ I also have 2 Patents from USPTO for some of the work I had done at Johnson Cont
 		</a>
 		
 		<a href="https://patents.google.com/patent/WO2019075239A1/en?inventor=venkata+vihari&oq=venkata+vihari" target="_blank">
-	    <img src="/assets/about/Patent2edit.png" border="1" align="left" alt="Image 2">
+	    <img src="/assets/about/patent2edit.png" border="1" align="left" alt="Image 2">
 		</a>
 </div>
 
