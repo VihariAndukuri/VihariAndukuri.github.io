@@ -97,7 +97,7 @@ You can get in touch with me on <a href="https://www.linkedin.com/in/vihari-andu
 <br>
 
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/about/tekion.jpg){:height="250px" width="180px" } 
+![Chungking Express Screencap 1]({{site.baseurl}}/assets/about/Tekion.jpg){:height="250px" width="180px" } 
 ###### ***Apr 2023 - Present***
 
 <br>
