@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Page
+title: Rapido's David vs Goliaths
 ---
 
 

@@ -14,6 +14,10 @@ Lorem ipsum dolor sit amet, **BOLD** adipiscing elit. Fusce bibendum neque eget 
 
 Here's a sentence with a footnote. [^1]
 
+fdfdge[^3]
+
+
+
 ## Some great heading (h2)
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
@@ -74,3 +78,5 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
 
 [^1]: This is the footnote.
+[^3]: This is the footnote.
+
