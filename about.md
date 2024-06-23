@@ -97,7 +97,7 @@ You can get in touch with me on <a href="https://www.linkedin.com/in/vihari-andu
 <br>
 
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/about/Tekion.jpg){:height="250px" width="180px" } 
+![Chungking Express Screencap 1]({{site.baseurl}}/assets/about/Tekion1.jpg){:height="250px" width="180px" } 
 ###### ***Apr 2023 - Present***
 
 <br>
@@ -105,9 +105,13 @@ Building a seamless automotive retail experience from Brand to Store to Consumer
 
 <br>
 
+------
+
 
 ![Chungking Express Screencap 1]({{site.baseurl}}/assets/about/bain1.png){:height="500px" width="360px" } 
 ###### ***Apr 2022 - Jun 2022***
+
+<br>
 
 I interned for two months at Bain & Company where I worked in their Enterprise Technology practice. 
 I had an oppurtinity to work with a U.S. Fortune 500 software company and a fintech unicorn during my time there. 
@@ -115,12 +119,15 @@ I had an oppurtinity to work with a U.S. Fortune 500 software company and a fint
 <br>
 I received a crash course on technology strategy and transformation, digital transformation and technology cost management.
 
-
 <br>
+
+------
 
 ![Chungking Express Screencap 1]({{site.baseurl}}/assets/about/jci.png){:height="250px" width="180px" } 
 
 ###### ***Jul 2017 - May 2021***
+
+<br>
 
 At Johnson Controls, I worked on End to End Product Design (Development through Production) of IOT sensors and Smart Thermostats.
 
