@@ -12,7 +12,7 @@ permalink: /books/
 
 **The Life of Mao**
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/mao.jpg){:height="350px" width="200px"}
+![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/mao.jpg){:height="350px" width="200px" style="border: 1px solid black;"}
 
 ------
 

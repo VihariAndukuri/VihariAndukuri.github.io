@@ -1,7 +1,19 @@
-- title: "Alibaba: The house that Jack Ma built"
-  author: "Andrew Leland"
-  cover: "/assets/bookcovers/ali.jpg"
+
    
+
+- title: "The Everything Store"
+  author: "Jeff Bezos"
+  cover: "/assets/bookcovers/jeff.jpg"
+  
+
+
+
+
+
+
+
+
+
 
 - title: "Hard Drive"
   author: "James Wallace & Jim Erickson"
@@ -18,11 +30,10 @@
   cover: "/assets/bookcovers/iwoz.jpg"
   
   
+- title: "Alibaba: The house that Jack Ma built"
+  author: "Andrew Leland"
+  cover: "/assets/bookcovers/ali.jpg"
 
-- title: "The Everything Store"
-  author: "Jeff Bezos"
-  cover: "/assets/bookcovers/jeff.jpg"
-  
 
 - title: "The Facebook Effect"
   author: "David Kirkpatrick"

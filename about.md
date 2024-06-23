@@ -57,11 +57,11 @@ I also have 2 Patents from USPTO for some of the work I had done at Johnson Cont
 
 <div class="image-container">
 
-		<a href="https://patents.google.com/patent/US20190113546A1/en?inventor=Vihari+Venkatavidya+Andukuri" target="_blank">
+		<a href="https://patents.google.com/patent/US20190113546A1/en?inventor=Vihari+Venkatavidya+Andukuri" style="color:black;" target="_blank">
 	    <img src="/assets/about/Patent1edit.png" border="1" align="left" alt="Image 1">
 		</a>
 		
-		<a href="https://patents.google.com/patent/WO2019075239A1/en?inventor=venkata+vihari&oq=venkata+vihari" target="_blank">
+		<a href="https://patents.google.com/patent/WO2019075239A1/en?inventor=venkata+vihari&oq=venkata+vihari" style="color:black;" target="_blank">
 	    <img src="/assets/about/patent2edit.png" border="1" align="left" alt="Image 2">
 		</a>
 </div>

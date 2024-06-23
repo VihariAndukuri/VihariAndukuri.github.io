@@ -37,7 +37,8 @@ body {
 .book-cover img {
     width: 210px; /* Set your desired width */
     height: 280px; /* Set your desired height */
-    object-fit: contain; /* Ensures images are resized to fit within the dimensions */
+    object-fit: cover; /* Ensures images are resized to fit within the dimensions */
+	border: 2px solid black;
 }
 
 .book-info {
