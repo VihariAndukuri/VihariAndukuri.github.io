@@ -1,4 +1,27 @@
 <footer class="footer mt-auto py-3">
-  <div class="container footer-container">{% include svg_icons.html %}</div>
-  <span class="fs-7 text-muted">      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;   &#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;   &#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;   &#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;   &#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;	&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;   &#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;   &#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;           Made with <span style="color: #ff0000;">&#10084;</span> by <a href="https://in.linkedin.com/in/vihari-andukuri" target="_blank"> Vihari </a> </span>
+  <div class="container footer-container text-center">
+    {% include svg_icons.html %}
+  </div>
+  <div class="text-center fs-7 text-muted">
+    Made with <span style="color: #ff0000;">&#10084;</span> by 
+    <a href="https://in.linkedin.com/in/vihari-andukuri" target="_blank">Vihari</a>
+  </div>
 </footer>
+
+<style>
+.footer {
+  background-color: #ffffff; /* White background color for the footer */
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.footer-container {
+  margin-bottom: 10px; /* Space between icons and text */
+}
+.footer a {
+  color: inherit; /* Keep link color consistent with text */
+  text-decoration: none; /* Remove underline from links */
+}
+.footer a:hover {
+  text-decoration: underline; /* Add underline on hover for clarity */
+}
+</style>
