@@ -34,11 +34,11 @@ Github prevents the user from mistakenly deleting a repository by ensuring  that
 
 ### 2. **Netflix:** Skip Intro
 
-*When the user is trying to make an unrecoverable change, make the confirmation box uncommon.* 
+*Automating the right user flow can dramatically improve user experience.* 
 
 ![Github]({{site.baseurl}}/assets/gallery/netflix.jpg){:height="1000px" width="583.33px"}
 
-Github prevents the user from mistakenly deleting a repository by ensuring  that he the deletion only happens after the user manually types the name of the repository.
+Netflix provides 'Skip Intro' button which allows the viewer to skip the video credits, recap of the previous episode with the click of a button. This allows the viewer to have a smoother transition between two episodes and delivers a seamless binge-watching experience.
 
 <br>
 
@@ -48,11 +48,15 @@ Github prevents the user from mistakenly deleting a repository by ensuring  that
 
 ### 3. **Microsoft Teams:** Lower Hand
 
-*When the user is trying to make an unrecoverable change, make the confirmation box uncommon.* 
+*Automating repetitive tasks, like lowering hands, reduces the cognitive load on users, allowing them to focus on the primary activities.* 
 
 ![Github]({{site.baseurl}}/assets/gallery/teamshand.png)
 
-Github prevents the user from mistakenly deleting a repository by ensuring  that he the deletion only happens after the user manually types the name of the repository.
+Microsoft Teams detects when a participant has spoken and automatically lowers their raised hand. By automating this workflow, it eliminates the need for the participant to manually lower their hand. It also reduces the cognitive load on meeting organizers by removing the need to keep track of who has spoken.
+
+ A great touch is providing users the option to override this feature if required.
+
+
 
 <br>
 
@@ -62,11 +66,11 @@ Github prevents the user from mistakenly deleting a repository by ensuring  that
 
 ### 4. **Myntra:** Size Recommendation
 
-*When the user is trying to make an unrecoverable change, make the confirmation box uncommon.* 
+*Recommendations at the right stage of the user flow can have a huge impact on conversion* and customer satisfaction
 
 ![Github]({{site.baseurl}}/assets/gallery/myntra.png){:height="650px" width="400.33px" style="border: 1px solid black;"}
 
-Github prevents the user from mistakenly deleting a repository by ensuring  that he the deletion only happens after the user manually types the name of the repository.
+Based on previous purchases, Myntra recommends the best size for the customer. By offering size recommendations at a critical point (just before adding the product to the cart), Myntra reduces uncertainty about the right fit and encourages customers to proceed with confidence. This approach also helps minimize the number of returns and exchanges due to sizing problems.
 
 <br>
 
@@ -76,11 +80,13 @@ Github prevents the user from mistakenly deleting a repository by ensuring  that
 
 ### 5. **iPod:** Click Wheel Navigation
 
-*Users perceive aesthetically pleasing designs more usable* 
+*Explore unconventional methods when faced with technological or form factor constraints* 
 
 ![Github]({{site.baseurl}}/assets/gallery/ipod.gif)
 
-Github prevents the user from mistakenly deleting a repository by ensuring  that he the deletion only happens after the user manually types the name of the repository.
+Users could quickly scroll through long lists of songs (up to 1000 songs in your pocket) or menus with the Click Wheel. It made scrolling much more engaging and enjoyable compared to using a typical scroll-down button.
+
+
 
 <br>
 
