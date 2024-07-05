@@ -12,6 +12,8 @@ Whenever I use a new product, I love to take a close look at its UI/UX. I like t
 
 Here is a curated gallery of some of the standout (and a few not so great) UI/UX designs I've encountered. These examples highlight small yet very functional UX decisions and product choices that make the user experience exceptional.
 
+This is a living list that I continuously update as I encounter new and interesting designs. 
+
 <br>
 
 ------
@@ -96,9 +98,66 @@ Users could quickly scroll through long lists of songs (up to 1000 songs in your
 
 ### 6. **Slack:** Warning Message
 
-*Users perceive aesthetically pleasing designs more usable* 
+*Confirm with the user before performing an event that has significant impact* 
 
 ![Github]({{site.baseurl}}/assets/gallery/slack.jpg){:height="650px" width="400.33px"}
 
+Slack explicitly explains the consequence of using @channel by quantifying the number of people who will receive the message. This ensures that users are fully aware of the impact and will proceed only if it is strictly necessary.
+
+By providing an easy way to override this warning, Slack ensures that users who intend to send a bulk message can do so, while also preventing accidental messages that could spam everyone in the group.
+
+<br>
+
+------
+
+
+
+### 7. **Amazon Prime:** Cast Details
+
+*Provide information that is directly relevant to the user’s current context, in a way that does not disrupt the primary user experience.* 
+
+![Github]({{site.baseurl}}/assets/gallery/starwars.png){:height="1000px" width="583.33px"}
+
+When a user pauses Amazon Prime video, X-Ray pops up. It provides the user information about the cast seen in the frame, soundtrack, and other production details. Amazon elegantly incorporates this feature without being intrusive and detracting from the primary user experience, watching the video. 
+
+It also minimises the need for user to leave the platform or use external services/tools to find the information they need.
+
+<br>
+
+------
+
+
+
+### 8. **Microsoft:** Search Bar
+
+*Users perceive aesthetically pleasing designs more usable* 
+
+![Github]({{site.baseurl}}/assets/gallery/starwars.png){:height="650px" width="400.33px"}
+
 Github prevents the user from mistakenly deleting a repository by ensuring  that he the deletion only happens after the user manually types the name of the repository.
 
+Users could quickly scroll through long lists of songs (up to 1000 songs in your pocket) or menus with the Click Wheel. It made scrolling much more engaging and enjoyable compared to using a typical scroll-down button.
+
+
+
+<br>
+
+------
+
+### 9. **Gmail:** No files attached
+
+*Users perceive aesthetically pleasing designs more usable* 
+
+![Github]({{site.baseurl}}/assets/gallery/gmail.png){:height="1750px" width="900.33px"}
+
+Github prevents the user from mistakenly deleting a repository by ensuring  that he the deletion only happens after the user manually types the name of the repository.
+
+Users could quickly scroll through long lists of songs (up to 1000 songs in your pocket) or menus with the Click Wheel. It made scrolling much more engaging and enjoyable compared to using a typical scroll-down button.
+
+
+
+<br>
+
+------
+
+### 10. **Google Pay:** Torch On
