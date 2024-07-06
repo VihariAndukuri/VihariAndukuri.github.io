@@ -146,7 +146,7 @@ Users could quickly scroll through long lists of songs (up to 1000 songs in your
 
 ### 9. **Gmail:** No files attached
 
-*Users perceive aesthetically pleasing designs more usable* 
+*Anticipate common user errors and design features that prevent them before they occur.*
 
 ![Github]({{site.baseurl}}/assets/gallery/gmail.png){:height="1750px" width="900.33px"}
 
