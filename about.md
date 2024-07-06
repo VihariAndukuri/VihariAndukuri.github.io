@@ -148,7 +148,17 @@ Here are some of cool products I had worked on at Johnson Controls.
 
 ##### [Glas Smart Thermostat &#x2197;](https://glas.johnsoncontrols.com/) 
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/about/glas.png){:height="950px" width="550px"}
+
+<div class="image-container">
+
+		
+	    <img src="/assets/about/glas.png" border="1" align="left" alt="Image 1"  width="500" height="200">
+		
+		
+		
+	    <img src="/assets/about/glasscreen.jpg" border="0" align="left" alt="Image 2"  width="300" height="200">
+		
+</div>
 
 
 
