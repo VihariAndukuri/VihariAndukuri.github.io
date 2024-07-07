@@ -3,6 +3,7 @@ layout: post
 title: Rapido's David vs Goliaths
 ---
 
+
 <br>
 
 India's bustling ride-hailing industry has long been dominated by two major players: Ola and Uber.
@@ -23,6 +24,8 @@ Though bike taxis were not a novel concept—Grab and GoJek had already establis
 
 Rapido's growth trajectory has been impressive, expanding its services to over 100 cities across India. The company's ability to penetrate Tier 2 and Tier 3 cities, where public transportation infrastructure is often inadequate, has been a significant factor in its widespread adoption. 
 
+<br>
+
 ## Rapido's entry into Auto and Cab market
 
 
@@ -33,58 +36,67 @@ By 2020, Rapido had established itself as the leading bike taxi provider in Indi
 
 It was finally time for Rapido to challenge the incumbents head-on. However, Rapido recognized that directly competing with Ola and Uber would be a formidable task. Instead, the company opted for a **differentiated business model** and an **innovative product strategy** to carve out its niche and effectively compete.
 
-
+<br>
 
 ## Differentiated Business Model
 
 *Focus on drivers, customers would come*
 
+Before discussing about Rapido's differentiated business model, it is important to look at the customer's Jobs To Be Done (JTBD).
+
+Customers want:
+
+- Safe rides at an economical cost.
+- Less waiting time when booking the ride.
+
+In the beginning, Uber and Ola as market creators had to focus on providing rides at an economical cost to drive up adoption. They did this via massive marketing push and more importantly by heavily subsidising the rides.
+
+However, now that the customers have become habituated with ride hailing, low cost can no longer be the value proposition. Majority of the customers are ready to pay slightly more for a ride if the waiting time for booking is less.
+
+Another major issue that customers widely mention about Uber and Ola drivers is their propensity to cancel rides after accepting the booking.
+
+Rapido realized that Uber and Ola were focusing on the wrong value proposition, and this insight guided their unique approach to the market. Instead of subsidizing rides for customers, Rapido focused on attracting more riders to their platform. Their business model was designed to incentivize riders from Ola and Uber to switch to Rapido.
+
+While the incumbents had a commission based model, Rapido followed the Subscription model. 
 
 
-![Grab]({{site.baseurl}}/assets/posts/rapido/ridebizmodel.png){:height="1200px" width="700.33px" style="display: block; margin: 0 auto"}
 
-<br><br><br><br><br><br>
+![Grab]({{site.baseurl}}/assets/posts/rapido/model.png){:height="2400px" width="1400.33px" style="display: block; margin: 0 auto"}
+
+Instead of levying a commission on drivers using its platform, Rapido charged a login fee: Rs 5 for autos and Rs 29 for cabs. Drivers on the Rapido platform need to pay a subscription fee of Rs 500 if their monthly earnings exceed Rs 10,000.
+
+Rapido's subscription model incentivizes drivers to work for Rapido without worrying about Uber or Ola taking a significant cut of their earnings. Additionally, when drivers pay a daily login fee, they are psychologically tied to driving for Rapido, similar to how Amazon Prime customers feel committed to using Amazon's services.
+
+By attracting more drivers to the platform, Rapido is able to significantly reduce the booking time for customers compared to other platforms. This shorter booking time prompts more customers to switch to Rapido, resulting in more rides for drivers and higher revenue-earning potential. The higher earning potential attracts more drivers to the platform, thereby creating a virtuous cycle.
+
+
+
+![Grab]({{site.baseurl}}/assets/posts/rapido/cycle.jpg){:height="2400px" width="1400.33px" style="display: block; margin: 0 auto"}
+
+
+
+<br>
 
 ## Innovative Product Strategy
 
+Rapido's Product Strategy is closely aligned to their business strategy. Due to their unique business model, their app has features that are currently not present in its competitors.
+
+<br>
+
+Rapido suggests a price but allows the customer to adjust it as they see fit. Drivers can then choose to accept or decline the ride based on the customer's set price. This creates a simplified free market where the service provider and customer negotiate a suitable price.
+
+If the customer is in a rush, he can choose to set a higher price, thereby incentivizing the driver to accept the ride.
+
+![payment]({{site.baseurl}}/assets/posts/rapido/payment.png){:height="1000px" width="610.33px" }
 
 
 
+Another pro-driver feature offered by Rapido is the implementation of waiting charges. A common complaint among drivers is that customers often keep them waiting even after they arrive at the designated pickup location.
 
-<br><br><br><br><br><br>	
+Clearly communicating the waiting charges and showing a countdown timer ensures that the customers do not keep the driver waiting for long. 
 
+![payment]({{site.baseurl}}/assets/posts/rapido/booking1.png){:height="1000px" width="610.33px" }
 
+![payment]({{site.baseurl}}/assets/posts/rapido/booking2.png){:height="1000px" width="610.33px" }
 
-
-
-Here's a sentence with a footnote. [^1]
-
-## Some great heading (h2)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-### Blockquotes (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-> This quote will _change_ your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
-
-### Code blocks (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```javascript
-function sayHello(name) {
-  if (!name) {
-    console.log("Hello World");
-  } else {
-    console.log(`Hello ${name}`);
-  }
-}
-```
-
-
-
-[^1]: This is the footnote.
+As Rapido continues to grow and adapt, it stands as a testament to the power of strategic differentiation and customer-centric innovation in achieving success even in a hyper-competitive market.
