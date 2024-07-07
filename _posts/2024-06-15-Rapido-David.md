@@ -39,6 +39,10 @@ It was finally time for Rapido to challenge the incumbents head-on. However, Rap
 
 *Focus on drivers, customers would come*
 
+
+
+![Grab]({{site.baseurl}}/assets/posts/rapido/ridebizmodel.png){:height="1200px" width="700.33px" style="display: block; margin: 0 auto"}
+
 <br><br><br><br><br><br>
 
 ## Innovative Product Strategy
