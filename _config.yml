@@ -40,6 +40,9 @@ google_analytics:
 
 permalink: /:year/:month/:day/:title/
 
+# Open Graph image URL
+og_image: /assets/images/light_bauhaus_logo.png
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: 
