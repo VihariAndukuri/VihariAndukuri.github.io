@@ -35,7 +35,7 @@ Amazon's Sign Up flow exhibits these usability issues.
 
 ![Amazon]({{site.baseurl}}/assets/posts/password/amazon.png){:height="1000px" width="610.33px" }
 
-
+<br>
 
 ## Masking the Password
 
@@ -60,7 +60,7 @@ A simple way to achieve this without causing usability issues is by providing a 
 
 ![Instagram]({{site.baseurl}}/assets/posts/password/instagram.png){:height="1200px" width="810.33px" }
 
-
+<br>
 
 ## Best UX: Show/Hide Password + Validation Rules
 
