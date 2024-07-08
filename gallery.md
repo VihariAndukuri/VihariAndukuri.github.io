@@ -128,36 +128,12 @@ It also minimises the need for user to leave the platform or use external servic
 
 
 
-### 8. **Microsoft:** Search Bar
-
-*Users perceive aesthetically pleasing designs more usable* 
-
-![Github]({{site.baseurl}}/assets/gallery/starwars.png){:height="650px" width="400.33px"}
-
-Github prevents the user from mistakenly deleting a repository by ensuring  that he the deletion only happens after the user manually types the name of the repository.
-
-Users could quickly scroll through long lists of songs (up to 1000 songs in your pocket) or menus with the Click Wheel. It made scrolling much more engaging and enjoyable compared to using a typical scroll-down button.
-
-
-
-<br>
-
-------
-
-### 9. **Gmail:** No files attached
+### 8. **Gmail:** No files attached
 
 *Anticipate common user errors and design features that prevent them before they occur.*
 
 ![Github]({{site.baseurl}}/assets/gallery/gmail.png){:height="1750px" width="900.33px"}
 
-Github prevents the user from mistakenly deleting a repository by ensuring  that he the deletion only happens after the user manually types the name of the repository.
+When user composese a email and mention an attachment but forget to actually attach a file, Gmail will display a warning message. This feature helps prevent a common user error and improves the overall user experience.
 
-Users could quickly scroll through long lists of songs (up to 1000 songs in your pocket) or menus with the Click Wheel. It made scrolling much more engaging and enjoyable compared to using a typical scroll-down button.
-
-
-
-<br>
-
-------
-
-### 10. **Google Pay:** Torch On
+### 

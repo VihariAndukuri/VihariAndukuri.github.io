@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Re-type Password must go
+title: Enhancing Password Creation UX
 ---
 
 
