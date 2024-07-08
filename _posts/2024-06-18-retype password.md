@@ -70,6 +70,6 @@ Target's Sign Up process has one of the best UX I have ever come across so far.
 
 It clearly lists down the requirements in plain language. It specifies that the password must contain 8-20 characters. It also mentions that the password should satisfy at least 2 of the additional requirements.
 
-![Target]({{site.baseurl}}/assets/posts/password/target.png){:height="1500px" width="1110.33px" }
+![Target]({{site.baseurl}}/assets/posts/password/target1.png){:height="1500px" width="1110.33px" }
 
-These designs show how the workflow of setting up a password in Sign Up can be greatly simplified without any major technical efforts or design overhaul. The improved UX would enable the users to sign up faster and provide a satisfying user experience. 
+These designs show how the workflow of setting up a password in Sign Up can be greatly simplified without any major technical efforts or reinventing the wheel. The improved UX would enable the users to sign up faster and provide a satisfying user experience. 
