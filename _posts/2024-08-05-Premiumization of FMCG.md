@@ -7,7 +7,7 @@ Imagine you are the CEO of a major FMCG company. The market penetration in your 
 
 Unfortunately, in a highly competitive market, plateauing growth is not a good sign, even for a market leader.
 
-In a capitalistic society, continuous growth isn't merely a desirable goal; it's a fundamental requirement. Companies are expected not just to maintain their market position but to constantly expand and innovate, ensuring increased profits and shareholder value. Whether this relentless demand for growth is ultimately beneficial in the long run is a matter of debate... but I digress.
+In a capitalist society, continuous growth isn't merely a desirable goal; it's a fundamental requirement. Companies are expected not just to maintain their market position but to constantly expand and innovate, ensuring increased profits and shareholder value. Whether this relentless demand for growth is ultimately beneficial in the long run is a matter of debate... but I digress.
 
  it's time for the company to explore new strategies for growth and innovation.
 
