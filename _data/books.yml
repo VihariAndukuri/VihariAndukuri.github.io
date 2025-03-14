@@ -190,8 +190,10 @@
   author: "J.D. Salinger"
   cover: "/assets/bookcovers/rye.jpg"
   
-
+- title: "The Life of Mao"
+  author: "Ross Terrill"
+  cover: "/assets/bookcovers/mao.jpg"
 
 - title: "Akbar"
   author: "Ira Mukhoty"
-  cover: "/assets/bookcovers/akbar.jpg"
+  cover: "/assets/bookcovers/akbar.jpg"  

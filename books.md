@@ -10,9 +10,9 @@ permalink: /books/
 
 #### **Currently Reading** 
 
-**The Life of Mao**
+**Open Circuits**
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/mao.jpg){:height="350px" width="200px" style="border: 1px solid black;"}
+![Chungking Express Screencap 1]({{site.baseurl}}/assets/bookcovers/opencircuits.jpg){:height="500px" width="300px" style="border: 1px solid black;"}
 
 ------
 
